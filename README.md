@@ -38,6 +38,10 @@ All simulations are implemented in MATLAB and demonstrate the combination of EM 
 &nbsp;&nbsp;&nbsp;**1.3.** `part2_caustics.m`  
 &nbsp;&nbsp;&nbsp;**1.4.** `part2_Electric_Field.m`
 
+## Requirements
+MATLAB R2021a or newer
+Basic MATLAB linear algebra support
+MATLAB Graphics toolbox (for plots and visualizations)
 
 
 
