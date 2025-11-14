@@ -14,8 +14,9 @@ All simulations are implemented in MATLAB and demonstrate the combination of EM 
 2. Add the project folder to your MATLAB path:
    ```matlab
    addpath(genpath('path/to/project'))
-3.Run the main script for the desired part:
-## 📂 Project Structure
+3.Run the main script for the desired part
+
+## Project Structure
 
 ### Part 1: Electromagnetic Scattering Simulation
 
