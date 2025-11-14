@@ -16,18 +16,15 @@ All simulations are implemented in MATLAB and demonstrate the combination of EM 
    addpath(genpath('path/to/project'))
 3.Run the main script for the desired part:
 ##  Project Structure-
-├── Par 1 :scattering simulation
-|
-├── section 1:
-├── Volume Method of Moments implementation
-│ ├── sec1_1.m
-├── Born and Rytov Approximations 
-│ ├── sec1_2.m
-|
-├── section 2: Inverse Scattering Using Born Approximation
-│ ├── sec_2.m
-│
-├── Part 2: Geometrical Optics implementation
+Par 1 :scattering simulation
+1. **section 1:
+1.1 **Volume Method of Moments implementation
+****sec1_1.m
+1.2 **Born and Rytov Approximations 
+ ****sec1_2.m
+2. **section 2: Inverse Scattering Using Born Approximation
+ ****sec_2.m
+Part 2: Geometrical Optics implementation
 │ ├── part2_RayPaths.m
 │ ├── part2_phase.m
 │ ├── part2_caustics.m
