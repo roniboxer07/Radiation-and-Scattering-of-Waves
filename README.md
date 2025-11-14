@@ -38,8 +38,29 @@ All simulations are implemented in MATLAB and demonstrate the combination of EM 
 &nbsp;&nbsp;&nbsp;**1.3.** `part2_caustics.m`  
 &nbsp;&nbsp;&nbsp;**1.4.** `part2_Electric_Field.m`
 
+## Method Overview
+
+### Part 1 — Electromagnetic Scattering Simulation (VMoM)
+
+- Discretization of the scatterer volume  
+- Construction of the 2D Green’s function interaction matrix  
+- Solving a linear system for internal field distribution  
+- Computing scattered fields and Radar Cross Section (RCS)  
+- Comparing results with Born and Rytov approximations  
+
+---
+
+### Part 2 — Geometrical Optics (GO)
+
+- Solving the eikonal equation to obtain ray trajectories  
+- Computing phase accumulation along each ray  
+- Identifying turning points and caustic curves  
+- Generating 2D field maps using MATLAB-based ray tracing  
+
+
 ## Requirements
 MATLAB R2021a or newer, Basic MATLAB linear algebra support, MATLAB Graphics toolbox.
+
 
 
 
