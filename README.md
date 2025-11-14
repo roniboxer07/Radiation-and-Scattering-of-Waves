@@ -17,7 +17,7 @@ All simulations are implemented in MATLAB and demonstrate the combination of EM 
 3.Run the main script for the desired part:
 ## 📂 Project Structure
 
-### Part 1: Scattering Simulation
+### Part 1: Electromagnetic Scattering Simulation
 
 **1. Section 1**  
 &nbsp;&nbsp;&nbsp;**1.1. Volume Method of Moments implementation**  
