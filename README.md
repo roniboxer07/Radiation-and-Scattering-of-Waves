@@ -8,3 +8,9 @@ It includes two main components:
 
 All simulations are implemented in MATLAB and demonstrate the combination of EM theory, numerical methods, and visualization tools.
 
+##  How to Run the Code
+
+1. Open **MATLAB**.
+2. Add the project folder to your MATLAB path:
+   ```matlab
+   addpath(genpath('path/to/project'))
